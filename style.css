@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar-toggler{
+    background-color: white !important;
+    
+  }
+  .navbar-brand{
+    color: white !important;
+   
+  }
+  .nav-link{
+    color: white !important;
+    
+  }
+  .img1{
+    object-fit: cover;
+    width: 750px;
+    height: 30vh;
+    margin-left: 10px;
+  }
+  
